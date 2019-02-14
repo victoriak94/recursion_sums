@@ -22,4 +22,3 @@ function makeChange(n, arr) {
 
 console.log(makeChange(100, [0, 0, 0, 0]));
 console.log(makeChange(168, [0, 0, 0, 0]));
-
